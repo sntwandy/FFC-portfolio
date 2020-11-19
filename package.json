@@ -1,0 +1,9 @@
+{
+  "name": "portfolio",
+  "version": "1.0.0",
+  "description": "FFC portfolio",
+  "main": "index.js",
+  "repository": "git@github.com:sntwandy/FFC-portfolio.git",
+  "author": "Wandy Santana <sntwandy@gmail.com>",
+  "license": "MIT"
+}
