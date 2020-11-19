@@ -1,0 +1,23 @@
+@media screen and (max-width: 1024px) {
+  .title {
+    font-size: 3rem;
+  }
+  .subtitle {
+    font-size: 1rem;
+  }
+  .projects-title {
+    font-size: 1.5rem;
+  }
+  .contact-title {
+    font-size: 1.5rem;
+  }
+  .list-items > li > a {
+    font-size: 16px;
+  }
+}
+
+@media screen and (max-width: 410px) {
+  .title {
+    font-size: 2rem;
+  }
+}
